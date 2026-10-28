@@ -1,9 +1,8 @@
-```html
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:382331,100:C69A9A&height=180&section=header&text=Ma%C3%ADra%20Web%20Studio&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-### ✦ Web Design • Desenvolvimento • Criatividade ✦
+✦ Web Design • Desenvolvimento • Criatividade ✦
 
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=19&duration=3000&pause=1000&color=D8A7B1&center=true&vCenter=true&width=500&lines=Transformando+ideias+em+sites;Design+com+eleg%C3%A2ncia+e+prop%C3%B3sito;Bem-vinda(o)+ao+meu+universo+digital!" alt="Texto animado" />
 
@@ -14,9 +13,7 @@
 
 </div>
 
----
-
-## 🖤 Sobre mim
+🖤 Sobre mim
 
 Sou criadora de sites e estou sempre explorando novas formas de unir **design, tecnologia e experiências digitais**.
 
@@ -25,7 +22,7 @@ Sou criadora de sites e estou sempre explorando novas formas de unir **design, t
 - ✨ Interfaces elegantes e funcionais
 - 🌙 Sempre aprendendo e criando novos projetos
 
-## 🛠️ Tecnologias
+🛠️ Tecnologias
 
 <div align="center">
 
@@ -36,7 +33,7 @@ Sou criadora de sites e estou sempre explorando novas formas de unir **design, t
 
 </div>
 
-## 📊 Estatísticas do GitHub
+ 📊 Estatísticas do GitHub
 
 <div align="center">
 
@@ -55,4 +52,3 @@ Sou criadora de sites e estou sempre explorando novas formas de unir **design, t
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C69A9A,50:382331,100:111111&height=100&section=footer" width="100%" />
 
 </div>
-```
